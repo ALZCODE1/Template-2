@@ -290,7 +290,7 @@ header .container nav form i {
 .landing {
   position: relative;
   background-color: #1f2021;
-  background-image: url(img/landing.jpg);
+  background-image: url(../img/landing.jpg);
   background-size: cover;
   min-height: 100dvh;
   min-width: 100%;
@@ -403,7 +403,7 @@ header .container nav form i {
 .design-section {
   height: 520px;
   background-color: #1f2021;
-  background-image: url(/img/bg-1.jpg);
+  background-image: url(../img/bg-1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
@@ -618,7 +618,7 @@ header .container nav form i {
 /* *Video Section Start */
 .video {
   margin-top: 60px;
-  background-image: url(/img/v1.jpg);
+  background-image: url(../img/v1.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   height: 520px;
@@ -676,7 +676,7 @@ header .container nav form i {
   }
 }
 .about-us .num {
-  background-image: url(/img/ab1.jpg);
+  background-image: url(../img/ab1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
@@ -833,7 +833,7 @@ header .container nav form i {
 }
 
 .our-skills .quote {
-  background-image: url(/img/s2.jpg);
+  background-image: url(../img/s2.jpg);
   background-size: cover;
   width: 100%;
   height: 350px;
@@ -1014,7 +1014,7 @@ header .container nav form i {
 }
 
 .pricing .subscribe {
-  background-image: url(/img/s1.jpg);
+  background-image: url(../img/s1.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   width: 100%;
@@ -1166,7 +1166,7 @@ header .container nav form i {
 /* *Footer Section Start */
 
 .footer {
-  background-image: url(/img/footer3.jpg);
+  background-image: url(../img/footer3.jpg);
   background-repeat: no-repeat;
   width: 100%;
   height: 400px;
