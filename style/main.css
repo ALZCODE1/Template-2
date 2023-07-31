@@ -290,7 +290,7 @@ header .container nav form i {
 .landing {
   position: relative;
   background-color: #1f2021;
-  background-image: url(/img/landing.jpg);
+  background-image: url(img/landing.jpg);
   background-size: cover;
   min-height: 100dvh;
   min-width: 100%;
