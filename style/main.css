@@ -1226,7 +1226,7 @@ header .container nav form i {
   color: var(--main-color);
 }
 
-.footer .copy span i{
+.footer .copy p i{
   color: white;
 }
 /* *Footer Section End */
