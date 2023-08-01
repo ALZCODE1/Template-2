@@ -1225,4 +1225,8 @@ header .container nav form i {
 .footer .copy span {
   color: var(--main-color);
 }
+
+.footer .copy span i{
+  color: white;
+}
 /* *Footer Section End */
