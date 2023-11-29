@@ -3,7 +3,7 @@
 Embarking on the next phase of my web development journey, my second project represents a deeper dive into the realms of HTML and CSS. The primary emphasis was on harnessing the power of CSS Grid and Flexbox to create a more intricate and sophisticated responsive website.
 
 ## Demo
-[Demo](https://abdalmalk-kasem.github.io/Second-Project/)
+[Demo](https://abdalmalk-kasem.github.io/Agency-app-2/)
 
 ## Project Details
 
